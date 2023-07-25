@@ -5,4 +5,6 @@
 </figure>
 
 ## Overview
-TBD.
+Accepted at MICCAI 2023.
+
+To be completed soon.
