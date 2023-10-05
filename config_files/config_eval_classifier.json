@@ -1,0 +1,13 @@
+{
+	"image_path": "/path/to/images/",
+	"save_path": "./chexnet/results/test/",
+	"classifier_checkpoint": "./networks/pretrained_classifier.pth",
+
+	"perturbation_type": "flow_field",
+	"perturbation_model_file": "./networks/generator_lowest_total_loss_mu_0.01.pth",
+	"mu": 0.01,
+
+	"b": null,
+	"m": null,
+	"eps": null
+}

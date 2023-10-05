@@ -1,0 +1,18 @@
+{
+	"experiment_description": "EXPERIMENT_DESCRIPTION",
+	"image_path": "/path/to/images/",
+
+	"ac_loss_weight": 1,
+	"ver_loss_weight": 1,
+
+	"generator_type": "flow_field",
+	"mu": 0.01,
+
+	"image_size": 256,
+	"batch_size": 64,
+	"learning_rate": 0.0001,
+	"max_epochs": 250,
+
+	"show_every_n_epochs": 10,
+	"show_every_n_iterations": 100
+}
